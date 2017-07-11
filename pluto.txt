@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+It is also a winderful planet!
+=======
 It is so a planet!
+>>>>>>> 65edde71a4f7cd711ca29217eafa37ec671d29c4
